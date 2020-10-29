@@ -1,263 +1,263 @@
-fips,cnty_name,st_name,contribution,year,Contribution_Group
-39001,Adams County,Ohio,5668,2016,"< 6,695"
-39003,Allen County,Ohio,126914,2016,"105,729 - 225,647"
-39005,Ashland County,Ohio,92961,2016,"48,802 - 105,729"
-39007,Ashtabula County,Ohio,53554,2016,"48,802 - 105,729"
-39009,Athens County,Ohio,107200,2016,"105,729 - 225,647"
-39011,Auglaize County,Ohio,39151,2016,"21,414 - 48,802"
-39013,Belmont County,Ohio,102991,2016,"48,802 - 105,729"
-39015,Brown County,Ohio,13882,2016,"6,695 - 21,414"
-39017,Butler County,Ohio,556248,2016,"225,647 - 699,369"
-39019,Carroll County,Ohio,23708,2016,"21,414 - 48,802"
-39021,Champaign County,Ohio,111602,2016,"105,729 - 225,647"
-39023,Clark County,Ohio,132432,2016,"105,729 - 225,647"
-39025,Clermont County,Ohio,159203,2016,"105,729 - 225,647"
-39027,Clinton County,Ohio,112064,2016,"105,729 - 225,647"
-39029,Columbiana County,Ohio,123912,2016,"105,729 - 225,647"
-39031,Coshocton County,Ohio,35921,2016,"21,414 - 48,802"
-39033,Crawford County,Ohio,34875,2016,"21,414 - 48,802"
-39035,Cuyahoga County,Ohio,3787316,2016,"> 699,369"
-39037,Darke County,Ohio,33967,2016,"21,414 - 48,802"
-39039,Defiance County,Ohio,126370,2016,"105,729 - 225,647"
-39041,Delaware County,Ohio,1805811,2016,"> 699,369"
-39043,Erie County,Ohio,131862,2016,"105,729 - 225,647"
-39045,Fairfield County,Ohio,152656,2016,"105,729 - 225,647"
-39047,Fayette County,Ohio,30380,2016,"21,414 - 48,802"
-39049,Franklin County,Ohio,22339200,2016,"> 699,369"
-39051,Fulton County,Ohio,18947,2016,"6,695 - 21,414"
-39053,Gallia County,Ohio,54973,2016,"48,802 - 105,729"
-39055,Geauga County,Ohio,261129,2016,"225,647 - 699,369"
-39057,Greene County,Ohio,343060,2016,"225,647 - 699,369"
-39059,Guernsey County,Ohio,78501,2016,"48,802 - 105,729"
-39061,Hamilton County,Ohio,1670374,2016,"> 699,369"
-39063,Hancock County,Ohio,242054,2016,"225,647 - 699,369"
-39065,Hardin County,Ohio,9283,2016,"6,695 - 21,414"
-39067,Harrison County,Ohio,5645,2016,"< 6,695"
-39069,Henry County,Ohio,750,2016,"< 6,695"
-39071,Highland County,Ohio,115,2016,"< 6,695"
-39073,Hocking County,Ohio,2040,2016,"< 6,695"
-39075,Holmes County,Ohio,22559,2016,"21,414 - 48,802"
-39077,Huron County,Ohio,3415,2016,"< 6,695"
-39079,Jackson County,Ohio,36335,2016,"21,414 - 48,802"
-39081,Jefferson County,Ohio,105246,2016,"48,802 - 105,729"
-39083,Knox County,Ohio,114756,2016,"105,729 - 225,647"
-39085,Lake County,Ohio,10460,2016,"6,695 - 21,414"
-39087,Lawrence County,Ohio,27194,2016,"21,414 - 48,802"
-39089,Licking County,Ohio,137303,2016,"105,729 - 225,647"
-39091,Logan County,Ohio,13874,2016,"6,695 - 21,414"
-39093,Lorain County,Ohio,304647,2016,"225,647 - 699,369"
-39095,Lucas County,Ohio,532766,2016,"225,647 - 699,369"
-39097,Madison County,Ohio,2362,2016,"< 6,695"
-39099,Mahoning County,Ohio,335040,2016,"225,647 - 699,369"
-39101,Marion County,Ohio,1575,2016,"< 6,695"
-39103,Medina County,Ohio,254382,2016,"225,647 - 699,369"
-39105,Meigs County,Ohio,6693,2016,"< 6,695"
-39107,Mercer County,Ohio,8035,2016,"6,695 - 21,414"
-39109,Miami County,Ohio,32455,2016,"21,414 - 48,802"
-39111,Monroe County,Ohio,16195,2016,"6,695 - 21,414"
-39113,Montgomery County,Ohio,534700,2016,"225,647 - 699,369"
-39115,Morgan County,Ohio,44240,2016,"21,414 - 48,802"
-39117,Morrow County,Ohio,18246,2016,"6,695 - 21,414"
-39119,Muskingum County,Ohio,112788,2016,"105,729 - 225,647"
-39121,Noble County,Ohio,425,2016,"< 6,695"
-39123,Ottawa County,Ohio,83257,2016,"48,802 - 105,729"
-39125,Paulding County,Ohio,30298,2016,"21,414 - 48,802"
-39127,Perry County,Ohio,8350,2016,"6,695 - 21,414"
-39129,Pickaway County,Ohio,2400,2016,"< 6,695"
-39131,Pike County,Ohio,11527,2016,"6,695 - 21,414"
-39133,Portage County,Ohio,324026,2016,"225,647 - 699,369"
-39135,Preble County,Ohio,3757,2016,"< 6,695"
-39137,Putnam County,Ohio,23082,2016,"21,414 - 48,802"
-39139,Richland County,Ohio,27947,2016,"21,414 - 48,802"
-39141,Ross County,Ohio,525,2016,"< 6,695"
-39143,Sandusky County,Ohio,5095,2016,"< 6,695"
-39145,Scioto County,Ohio,53314,2016,"48,802 - 105,729"
-39147,Seneca County,Ohio,56850,2016,"48,802 - 105,729"
-39149,Shelby County,Ohio,2834,2016,"< 6,695"
-39151,Stark County,Ohio,391519,2016,"225,647 - 699,369"
-39153,Summit County,Ohio,1148221,2016,"> 699,369"
-39155,Trumbull County,Ohio,217760,2016,"105,729 - 225,647"
-39157,Tuscarawas County,Ohio,66846,2016,"48,802 - 105,729"
-39161,Van Wert County,Ohio,4125,2016,"< 6,695"
-39163,Vinton County,Ohio,1950,2016,"< 6,695"
-39165,Warren County,Ohio,227485,2016,"225,647 - 699,369"
-39167,Washington County,Ohio,88477,2016,"48,802 - 105,729"
-39169,Wayne County,Ohio,6095,2016,"< 6,695"
-39171,Williams County,Ohio,9150,2016,"6,695 - 21,414"
-39173,Wood County,Ohio,248567,2016,"225,647 - 699,369"
-39175,Wyandot County,Ohio,13880,2016,"6,695 - 21,414"
-39159,Union County,Ohio,0,2016,"< 6,695"
-39001,Adams County,Ohio,36830.55,2018,"21,414 - 48,802"
-39003,Allen County,Ohio,309639.29,2018,"225,647 - 699,369"
-39005,Ashland County,Ohio,224418.84,2018,"105,729 - 225,647"
-39007,Ashtabula County,Ohio,94570.6,2018,"48,802 - 105,729"
-39009,Athens County,Ohio,324423.98,2018,"225,647 - 699,369"
-39011,Auglaize County,Ohio,187936.05,2018,"105,729 - 225,647"
-39013,Belmont County,Ohio,293611.74,2018,"225,647 - 699,369"
-39015,Brown County,Ohio,126745.07,2018,"105,729 - 225,647"
-39017,Butler County,Ohio,1245796.58,2018,"> 699,369"
-39019,Carroll County,Ohio,81358.81,2018,"48,802 - 105,729"
-39021,Champaign County,Ohio,182798.08,2018,"105,729 - 225,647"
-39023,Clark County,Ohio,226056.08,2018,"225,647 - 699,369"
-39025,Clermont County,Ohio,400207.9,2018,"225,647 - 699,369"
-39027,Clinton County,Ohio,184542.42,2018,"105,729 - 225,647"
-39029,Columbiana County,Ohio,381573.72,2018,"225,647 - 699,369"
-39031,Coshocton County,Ohio,35246,2018,"21,414 - 48,802"
-39033,Crawford County,Ohio,180497.99,2018,"105,729 - 225,647"
-39035,Cuyahoga County,Ohio,10926043.35,2018,"> 699,369"
-39037,Darke County,Ohio,106051.51,2018,"105,729 - 225,647"
-39039,Defiance County,Ohio,200990.61,2018,"105,729 - 225,647"
-39041,Delaware County,Ohio,4614755.96,2018,"> 699,369"
-39043,Erie County,Ohio,267273.65,2018,"225,647 - 699,369"
-39045,Fairfield County,Ohio,410211,2018,"225,647 - 699,369"
-39047,Fayette County,Ohio,46055.18,2018,"21,414 - 48,802"
-39049,Franklin County,Ohio,37922510.42,2018,"> 699,369"
-39051,Fulton County,Ohio,45235.34,2018,"21,414 - 48,802"
-39053,Gallia County,Ohio,53915.54,2018,"48,802 - 105,729"
-39055,Geauga County,Ohio,733334.81,2018,"> 699,369"
-39057,Greene County,Ohio,668239.02,2018,"225,647 - 699,369"
-39059,Guernsey County,Ohio,126133.21,2018,"105,729 - 225,647"
-39061,Hamilton County,Ohio,5678131.44,2018,"> 699,369"
-39063,Hancock County,Ohio,702827.6,2018,"> 699,369"
-39065,Hardin County,Ohio,62465.75,2018,"48,802 - 105,729"
-39067,Harrison County,Ohio,58550.35,2018,"48,802 - 105,729"
-39069,Henry County,Ohio,5128,2018,"< 6,695"
-39071,Highland County,Ohio,1131.5,2018,"< 6,695"
-39073,Hocking County,Ohio,14602,2018,"6,695 - 21,414"
-39075,Holmes County,Ohio,13495,2018,"6,695 - 21,414"
-39077,Huron County,Ohio,12685.69,2018,"6,695 - 21,414"
-39079,Jackson County,Ohio,146035.39,2018,"105,729 - 225,647"
-39081,Jefferson County,Ohio,101647.45,2018,"48,802 - 105,729"
-39083,Knox County,Ohio,315487.27,2018,"225,647 - 699,369"
-39085,Lake County,Ohio,22161.19,2018,"21,414 - 48,802"
-39087,Lawrence County,Ohio,71350.17,2018,"48,802 - 105,729"
-39089,Licking County,Ohio,704636.67,2018,"> 699,369"
-39091,Logan County,Ohio,22867,2018,"21,414 - 48,802"
-39093,Lorain County,Ohio,912239.2,2018,"> 699,369"
-39095,Lucas County,Ohio,1115209.9,2018,"> 699,369"
-39097,Madison County,Ohio,3690,2018,"< 6,695"
-39099,Mahoning County,Ohio,964361.68,2018,"> 699,369"
-39101,Marion County,Ohio,8690,2018,"6,695 - 21,414"
-39103,Medina County,Ohio,724500.89,2018,"> 699,369"
-39105,Meigs County,Ohio,8143,2018,"6,695 - 21,414"
-39107,Mercer County,Ohio,11434.45,2018,"6,695 - 21,414"
-39109,Miami County,Ohio,228690.44,2018,"225,647 - 699,369"
-39111,Monroe County,Ohio,43341,2018,"21,414 - 48,802"
-39113,Montgomery County,Ohio,1267909.69,2018,"> 699,369"
-39115,Morgan County,Ohio,45354.38,2018,"21,414 - 48,802"
-39117,Morrow County,Ohio,23437.5,2018,"21,414 - 48,802"
-39119,Muskingum County,Ohio,167490.87,2018,"105,729 - 225,647"
-39121,Noble County,Ohio,325,2018,"< 6,695"
-39123,Ottawa County,Ohio,125705.2,2018,"105,729 - 225,647"
-39125,Paulding County,Ohio,48467.67,2018,"21,414 - 48,802"
-39127,Perry County,Ohio,6272.67,2018,"< 6,695"
-39129,Pickaway County,Ohio,6225.33,2018,"< 6,695"
-39131,Pike County,Ohio,46574.09,2018,"21,414 - 48,802"
-39133,Portage County,Ohio,879932.95,2018,"> 699,369"
-39135,Preble County,Ohio,18042.7,2018,"6,695 - 21,414"
-39137,Putnam County,Ohio,30183.68,2018,"21,414 - 48,802"
-39139,Richland County,Ohio,81793.86,2018,"48,802 - 105,729"
-39141,Ross County,Ohio,7991.28,2018,"6,695 - 21,414"
-39143,Sandusky County,Ohio,13427.78,2018,"6,695 - 21,414"
-39145,Scioto County,Ohio,94780.62,2018,"48,802 - 105,729"
-39147,Seneca County,Ohio,102967.86,2018,"48,802 - 105,729"
-39149,Shelby County,Ohio,15218.66,2018,"6,695 - 21,414"
-39151,Stark County,Ohio,1110593.27,2018,"> 699,369"
-39153,Summit County,Ohio,2173667.14,2018,"> 699,369"
-39155,Trumbull County,Ohio,392532.41,2018,"225,647 - 699,369"
-39157,Tuscarawas County,Ohio,262915.41,2018,"225,647 - 699,369"
-39161,Van Wert County,Ohio,20096.59,2018,"6,695 - 21,414"
-39163,Vinton County,Ohio,2700,2018,"< 6,695"
-39165,Warren County,Ohio,445169.96,2018,"225,647 - 699,369"
-39167,Washington County,Ohio,144564.42,2018,"105,729 - 225,647"
-39169,Wayne County,Ohio,50236.5,2018,"48,802 - 105,729"
-39171,Williams County,Ohio,7244.37,2018,"6,695 - 21,414"
-39173,Wood County,Ohio,355729.29,2018,"225,647 - 699,369"
-39175,Wyandot County,Ohio,49210.6,2018,"48,802 - 105,729"
-39001,Adams County,Ohio,12010,2017,"6,695 - 21,414"
-39003,Allen County,Ohio,209034.86,2017,"105,729 - 225,647"
-39005,Ashland County,Ohio,195192.91,2017,"105,729 - 225,647"
-39007,Ashtabula County,Ohio,102150.57,2017,"48,802 - 105,729"
-39009,Athens County,Ohio,61197.81,2017,"48,802 - 105,729"
-39011,Auglaize County,Ohio,51377.89,2017,"48,802 - 105,729"
-39013,Belmont County,Ohio,73664.63,2017,"48,802 - 105,729"
-39015,Brown County,Ohio,13449.48,2017,"6,695 - 21,414"
-39017,Butler County,Ohio,568341.02,2017,"225,647 - 699,369"
-39019,Carroll County,Ohio,27050.79,2017,"21,414 - 48,802"
-39021,Champaign County,Ohio,92508.55,2017,"48,802 - 105,729"
-39023,Clark County,Ohio,114887.21,2017,"105,729 - 225,647"
-39025,Clermont County,Ohio,161907.34,2017,"105,729 - 225,647"
-39027,Clinton County,Ohio,92443.34,2017,"48,802 - 105,729"
-39029,Columbiana County,Ohio,135869.86,2017,"105,729 - 225,647"
-39031,Coshocton County,Ohio,45715.18,2017,"21,414 - 48,802"
-39033,Crawford County,Ohio,78415.42,2017,"48,802 - 105,729"
-39035,Cuyahoga County,Ohio,4664745.75,2017,"> 699,369"
-39037,Darke County,Ohio,56191.5,2017,"48,802 - 105,729"
-39039,Defiance County,Ohio,92230.49,2017,"48,802 - 105,729"
-39041,Delaware County,Ohio,2239057.07,2017,"> 699,369"
-39043,Erie County,Ohio,128446.3,2017,"105,729 - 225,647"
-39045,Fairfield County,Ohio,143211.16,2017,"105,729 - 225,647"
-39047,Fayette County,Ohio,6825,2017,"6,695 - 21,414"
-39049,Franklin County,Ohio,14242971.98,2017,"> 699,369"
-39051,Fulton County,Ohio,16962,2017,"6,695 - 21,414"
-39053,Gallia County,Ohio,67287.7,2017,"48,802 - 105,729"
-39055,Geauga County,Ohio,298250.03,2017,"225,647 - 699,369"
-39057,Greene County,Ohio,392214.76,2017,"225,647 - 699,369"
-39059,Guernsey County,Ohio,43752,2017,"21,414 - 48,802"
-39061,Hamilton County,Ohio,2308466.35,2017,"> 699,369"
-39063,Hancock County,Ohio,605743,2017,"225,647 - 699,369"
-39065,Hardin County,Ohio,58338.06,2017,"48,802 - 105,729"
-39067,Harrison County,Ohio,33071.08,2017,"21,414 - 48,802"
-39069,Henry County,Ohio,590,2017,"< 6,695"
-39071,Highland County,Ohio,105,2017,"< 6,695"
-39073,Hocking County,Ohio,4854,2017,"< 6,695"
-39075,Holmes County,Ohio,4830,2017,"< 6,695"
-39077,Huron County,Ohio,15821.32,2017,"6,695 - 21,414"
-39079,Jackson County,Ohio,100863.04,2017,"48,802 - 105,729"
-39081,Jefferson County,Ohio,34144.55,2017,"21,414 - 48,802"
-39083,Knox County,Ohio,119665.49,2017,"105,729 - 225,647"
-39085,Lake County,Ohio,13204,2017,"6,695 - 21,414"
-39087,Lawrence County,Ohio,28289.14,2017,"21,414 - 48,802"
-39089,Licking County,Ohio,254403.05,2017,"225,647 - 699,369"
-39091,Logan County,Ohio,27792,2017,"21,414 - 48,802"
-39093,Lorain County,Ohio,452127.57,2017,"225,647 - 699,369"
-39095,Lucas County,Ohio,446496.12,2017,"225,647 - 699,369"
-39097,Madison County,Ohio,3415,2017,"< 6,695"
-39099,Mahoning County,Ohio,557303.61,2017,"225,647 - 699,369"
-39101,Marion County,Ohio,4785,2017,"< 6,695"
-39103,Medina County,Ohio,486032.82,2017,"225,647 - 699,369"
-39105,Meigs County,Ohio,8395,2017,"6,695 - 21,414"
-39107,Mercer County,Ohio,6500,2017,"< 6,695"
-39109,Miami County,Ohio,64333.93,2017,"48,802 - 105,729"
-39111,Monroe County,Ohio,16039,2017,"6,695 - 21,414"
-39113,Montgomery County,Ohio,753863.66,2017,"> 699,369"
-39115,Morgan County,Ohio,14629,2017,"6,695 - 21,414"
-39117,Morrow County,Ohio,19479,2017,"6,695 - 21,414"
-39119,Muskingum County,Ohio,125683.59,2017,"105,729 - 225,647"
-39121,Noble County,Ohio,250,2017,"< 6,695"
-39123,Ottawa County,Ohio,71740.06,2017,"48,802 - 105,729"
-39125,Paulding County,Ohio,23332.89,2017,"21,414 - 48,802"
-39127,Perry County,Ohio,3000,2017,"< 6,695"
-39129,Pickaway County,Ohio,735,2017,"< 6,695"
-39131,Pike County,Ohio,21094.16,2017,"6,695 - 21,414"
-39133,Portage County,Ohio,540690.58,2017,"225,647 - 699,369"
-39135,Preble County,Ohio,3436,2017,"< 6,695"
-39137,Putnam County,Ohio,27177,2017,"21,414 - 48,802"
-39139,Richland County,Ohio,27915,2017,"21,414 - 48,802"
-39141,Ross County,Ohio,5103.41,2017,"< 6,695"
-39143,Sandusky County,Ohio,3389.9,2017,"< 6,695"
-39145,Scioto County,Ohio,45975.91,2017,"21,414 - 48,802"
-39147,Seneca County,Ohio,59275.5,2017,"48,802 - 105,729"
-39149,Shelby County,Ohio,6709.21,2017,"6,695 - 21,414"
-39151,Stark County,Ohio,523940.6,2017,"225,647 - 699,369"
-39153,Summit County,Ohio,1019881.72,2017,"> 699,369"
-39155,Trumbull County,Ohio,142807.33,2017,"105,729 - 225,647"
-39157,Tuscarawas County,Ohio,30417,2017,"21,414 - 48,802"
-39161,Van Wert County,Ohio,8881.93,2017,"6,695 - 21,414"
-39163,Vinton County,Ohio,5845,2017,"< 6,695"
-39165,Warren County,Ohio,196414.81,2017,"105,729 - 225,647"
-39167,Washington County,Ohio,91500,2017,"48,802 - 105,729"
-39169,Wayne County,Ohio,23710,2017,"21,414 - 48,802"
-39171,Williams County,Ohio,13215,2017,"6,695 - 21,414"
-39173,Wood County,Ohio,147762.57,2017,"105,729 - 225,647"
-39175,Wyandot County,Ohio,7575,2017,"6,695 - 21,414"
+fips,cnty_name,st_name,contribution,year,contribution_group,Rank
+39001,Adams County,Ohio,5668,2016,"< 6,695",1
+39067,Harrison County,Ohio,5645,2016,"< 6,695",1
+39069,Henry County,Ohio,750,2016,"< 6,695",1
+39071,Highland County,Ohio,115,2016,"< 6,695",1
+39073,Hocking County,Ohio,2040,2016,"< 6,695",1
+39077,Huron County,Ohio,3415,2016,"< 6,695",1
+39097,Madison County,Ohio,2362,2016,"< 6,695",1
+39101,Marion County,Ohio,1575,2016,"< 6,695",1
+39105,Meigs County,Ohio,6693,2016,"< 6,695",1
+39121,Noble County,Ohio,425,2016,"< 6,695",1
+39129,Pickaway County,Ohio,2400,2016,"< 6,695",1
+39135,Preble County,Ohio,3757,2016,"< 6,695",1
+39141,Ross County,Ohio,525,2016,"< 6,695",1
+39143,Sandusky County,Ohio,5095,2016,"< 6,695",1
+39149,Shelby County,Ohio,2834,2016,"< 6,695",1
+39161,Van Wert County,Ohio,4125,2016,"< 6,695",1
+39163,Vinton County,Ohio,1950,2016,"< 6,695",1
+39169,Wayne County,Ohio,6095,2016,"< 6,695",1
+39159,Union County,Ohio,0,2016,"< 6,695",1
+39069,Henry County,Ohio,5128,2018,"< 6,695",1
+39071,Highland County,Ohio,1131.5,2018,"< 6,695",1
+39097,Madison County,Ohio,3690,2018,"< 6,695",1
+39121,Noble County,Ohio,325,2018,"< 6,695",1
+39127,Perry County,Ohio,6272.67,2018,"< 6,695",1
+39129,Pickaway County,Ohio,6225.33,2018,"< 6,695",1
+39163,Vinton County,Ohio,2700,2018,"< 6,695",1
+39069,Henry County,Ohio,590,2017,"< 6,695",1
+39071,Highland County,Ohio,105,2017,"< 6,695",1
+39073,Hocking County,Ohio,4854,2017,"< 6,695",1
+39075,Holmes County,Ohio,4830,2017,"< 6,695",1
+39097,Madison County,Ohio,3415,2017,"< 6,695",1
+39101,Marion County,Ohio,4785,2017,"< 6,695",1
+39107,Mercer County,Ohio,6500,2017,"< 6,695",1
+39121,Noble County,Ohio,250,2017,"< 6,695",1
+39127,Perry County,Ohio,3000,2017,"< 6,695",1
+39129,Pickaway County,Ohio,735,2017,"< 6,695",1
+39135,Preble County,Ohio,3436,2017,"< 6,695",1
+39141,Ross County,Ohio,5103.41,2017,"< 6,695",1
+39143,Sandusky County,Ohio,3389.9,2017,"< 6,695",1
+39163,Vinton County,Ohio,5845,2017,"< 6,695",1
+39015,Brown County,Ohio,13882,2016,"6,695 - 21,414",2
+39051,Fulton County,Ohio,18947,2016,"6,695 - 21,414",2
+39065,Hardin County,Ohio,9283,2016,"6,695 - 21,414",2
+39085,Lake County,Ohio,10460,2016,"6,695 - 21,414",2
+39091,Logan County,Ohio,13874,2016,"6,695 - 21,414",2
+39107,Mercer County,Ohio,8035,2016,"6,695 - 21,414",2
+39111,Monroe County,Ohio,16195,2016,"6,695 - 21,414",2
+39117,Morrow County,Ohio,18246,2016,"6,695 - 21,414",2
+39127,Perry County,Ohio,8350,2016,"6,695 - 21,414",2
+39131,Pike County,Ohio,11527,2016,"6,695 - 21,414",2
+39171,Williams County,Ohio,9150,2016,"6,695 - 21,414",2
+39175,Wyandot County,Ohio,13880,2016,"6,695 - 21,414",2
+39073,Hocking County,Ohio,14602,2018,"6,695 - 21,414",2
+39075,Holmes County,Ohio,13495,2018,"6,695 - 21,414",2
+39077,Huron County,Ohio,12685.69,2018,"6,695 - 21,414",2
+39101,Marion County,Ohio,8690,2018,"6,695 - 21,414",2
+39105,Meigs County,Ohio,8143,2018,"6,695 - 21,414",2
+39107,Mercer County,Ohio,11434.45,2018,"6,695 - 21,414",2
+39135,Preble County,Ohio,18042.7,2018,"6,695 - 21,414",2
+39141,Ross County,Ohio,7991.28,2018,"6,695 - 21,414",2
+39143,Sandusky County,Ohio,13427.78,2018,"6,695 - 21,414",2
+39149,Shelby County,Ohio,15218.66,2018,"6,695 - 21,414",2
+39161,Van Wert County,Ohio,20096.59,2018,"6,695 - 21,414",2
+39171,Williams County,Ohio,7244.37,2018,"6,695 - 21,414",2
+39001,Adams County,Ohio,12010,2017,"6,695 - 21,414",2
+39015,Brown County,Ohio,13449.48,2017,"6,695 - 21,414",2
+39047,Fayette County,Ohio,6825,2017,"6,695 - 21,414",2
+39051,Fulton County,Ohio,16962,2017,"6,695 - 21,414",2
+39077,Huron County,Ohio,15821.32,2017,"6,695 - 21,414",2
+39085,Lake County,Ohio,13204,2017,"6,695 - 21,414",2
+39105,Meigs County,Ohio,8395,2017,"6,695 - 21,414",2
+39111,Monroe County,Ohio,16039,2017,"6,695 - 21,414",2
+39115,Morgan County,Ohio,14629,2017,"6,695 - 21,414",2
+39117,Morrow County,Ohio,19479,2017,"6,695 - 21,414",2
+39131,Pike County,Ohio,21094.16,2017,"6,695 - 21,414",2
+39149,Shelby County,Ohio,6709.21,2017,"6,695 - 21,414",2
+39161,Van Wert County,Ohio,8881.93,2017,"6,695 - 21,414",2
+39171,Williams County,Ohio,13215,2017,"6,695 - 21,414",2
+39175,Wyandot County,Ohio,7575,2017,"6,695 - 21,414",2
+39011,Auglaize County,Ohio,39151,2016,"21,414 - 48,802",3
+39019,Carroll County,Ohio,23708,2016,"21,414 - 48,802",3
+39031,Coshocton County,Ohio,35921,2016,"21,414 - 48,802",3
+39033,Crawford County,Ohio,34875,2016,"21,414 - 48,802",3
+39037,Darke County,Ohio,33967,2016,"21,414 - 48,802",3
+39047,Fayette County,Ohio,30380,2016,"21,414 - 48,802",3
+39075,Holmes County,Ohio,22559,2016,"21,414 - 48,802",3
+39079,Jackson County,Ohio,36335,2016,"21,414 - 48,802",3
+39087,Lawrence County,Ohio,27194,2016,"21,414 - 48,802",3
+39109,Miami County,Ohio,32455,2016,"21,414 - 48,802",3
+39115,Morgan County,Ohio,44240,2016,"21,414 - 48,802",3
+39125,Paulding County,Ohio,30298,2016,"21,414 - 48,802",3
+39137,Putnam County,Ohio,23082,2016,"21,414 - 48,802",3
+39139,Richland County,Ohio,27947,2016,"21,414 - 48,802",3
+39001,Adams County,Ohio,36830.55,2018,"21,414 - 48,802",3
+39031,Coshocton County,Ohio,35246,2018,"21,414 - 48,802",3
+39047,Fayette County,Ohio,46055.18,2018,"21,414 - 48,802",3
+39051,Fulton County,Ohio,45235.34,2018,"21,414 - 48,802",3
+39085,Lake County,Ohio,22161.19,2018,"21,414 - 48,802",3
+39091,Logan County,Ohio,22867,2018,"21,414 - 48,802",3
+39111,Monroe County,Ohio,43341,2018,"21,414 - 48,802",3
+39115,Morgan County,Ohio,45354.38,2018,"21,414 - 48,802",3
+39117,Morrow County,Ohio,23437.5,2018,"21,414 - 48,802",3
+39125,Paulding County,Ohio,48467.67,2018,"21,414 - 48,802",3
+39131,Pike County,Ohio,46574.09,2018,"21,414 - 48,802",3
+39137,Putnam County,Ohio,30183.68,2018,"21,414 - 48,802",3
+39019,Carroll County,Ohio,27050.79,2017,"21,414 - 48,802",3
+39031,Coshocton County,Ohio,45715.18,2017,"21,414 - 48,802",3
+39059,Guernsey County,Ohio,43752,2017,"21,414 - 48,802",3
+39067,Harrison County,Ohio,33071.08,2017,"21,414 - 48,802",3
+39081,Jefferson County,Ohio,34144.55,2017,"21,414 - 48,802",3
+39087,Lawrence County,Ohio,28289.14,2017,"21,414 - 48,802",3
+39091,Logan County,Ohio,27792,2017,"21,414 - 48,802",3
+39125,Paulding County,Ohio,23332.89,2017,"21,414 - 48,802",3
+39137,Putnam County,Ohio,27177,2017,"21,414 - 48,802",3
+39139,Richland County,Ohio,27915,2017,"21,414 - 48,802",3
+39145,Scioto County,Ohio,45975.91,2017,"21,414 - 48,802",3
+39157,Tuscarawas County,Ohio,30417,2017,"21,414 - 48,802",3
+39169,Wayne County,Ohio,23710,2017,"21,414 - 48,802",3
+39005,Ashland County,Ohio,92961,2016,"48,802 - 105,729",4
+39007,Ashtabula County,Ohio,53554,2016,"48,802 - 105,729",4
+39013,Belmont County,Ohio,102991,2016,"48,802 - 105,729",4
+39053,Gallia County,Ohio,54973,2016,"48,802 - 105,729",4
+39059,Guernsey County,Ohio,78501,2016,"48,802 - 105,729",4
+39081,Jefferson County,Ohio,105246,2016,"48,802 - 105,729",4
+39123,Ottawa County,Ohio,83257,2016,"48,802 - 105,729",4
+39145,Scioto County,Ohio,53314,2016,"48,802 - 105,729",4
+39147,Seneca County,Ohio,56850,2016,"48,802 - 105,729",4
+39157,Tuscarawas County,Ohio,66846,2016,"48,802 - 105,729",4
+39167,Washington County,Ohio,88477,2016,"48,802 - 105,729",4
+39007,Ashtabula County,Ohio,94570.6,2018,"48,802 - 105,729",4
+39019,Carroll County,Ohio,81358.81,2018,"48,802 - 105,729",4
+39053,Gallia County,Ohio,53915.54,2018,"48,802 - 105,729",4
+39065,Hardin County,Ohio,62465.75,2018,"48,802 - 105,729",4
+39067,Harrison County,Ohio,58550.35,2018,"48,802 - 105,729",4
+39081,Jefferson County,Ohio,101647.45,2018,"48,802 - 105,729",4
+39087,Lawrence County,Ohio,71350.17,2018,"48,802 - 105,729",4
+39139,Richland County,Ohio,81793.86,2018,"48,802 - 105,729",4
+39145,Scioto County,Ohio,94780.62,2018,"48,802 - 105,729",4
+39147,Seneca County,Ohio,102967.86,2018,"48,802 - 105,729",4
+39169,Wayne County,Ohio,50236.5,2018,"48,802 - 105,729",4
+39175,Wyandot County,Ohio,49210.6,2018,"48,802 - 105,729",4
+39007,Ashtabula County,Ohio,102150.57,2017,"48,802 - 105,729",4
+39009,Athens County,Ohio,61197.81,2017,"48,802 - 105,729",4
+39011,Auglaize County,Ohio,51377.89,2017,"48,802 - 105,729",4
+39013,Belmont County,Ohio,73664.63,2017,"48,802 - 105,729",4
+39021,Champaign County,Ohio,92508.55,2017,"48,802 - 105,729",4
+39027,Clinton County,Ohio,92443.34,2017,"48,802 - 105,729",4
+39033,Crawford County,Ohio,78415.42,2017,"48,802 - 105,729",4
+39037,Darke County,Ohio,56191.5,2017,"48,802 - 105,729",4
+39039,Defiance County,Ohio,92230.49,2017,"48,802 - 105,729",4
+39053,Gallia County,Ohio,67287.7,2017,"48,802 - 105,729",4
+39065,Hardin County,Ohio,58338.06,2017,"48,802 - 105,729",4
+39079,Jackson County,Ohio,100863.04,2017,"48,802 - 105,729",4
+39109,Miami County,Ohio,64333.93,2017,"48,802 - 105,729",4
+39123,Ottawa County,Ohio,71740.06,2017,"48,802 - 105,729",4
+39147,Seneca County,Ohio,59275.5,2017,"48,802 - 105,729",4
+39167,Washington County,Ohio,91500,2017,"48,802 - 105,729",4
+39003,Allen County,Ohio,126914,2016,"105,729 - 225,647",5
+39009,Athens County,Ohio,107200,2016,"105,729 - 225,647",5
+39021,Champaign County,Ohio,111602,2016,"105,729 - 225,647",5
+39023,Clark County,Ohio,132432,2016,"105,729 - 225,647",5
+39025,Clermont County,Ohio,159203,2016,"105,729 - 225,647",5
+39027,Clinton County,Ohio,112064,2016,"105,729 - 225,647",5
+39029,Columbiana County,Ohio,123912,2016,"105,729 - 225,647",5
+39039,Defiance County,Ohio,126370,2016,"105,729 - 225,647",5
+39043,Erie County,Ohio,131862,2016,"105,729 - 225,647",5
+39045,Fairfield County,Ohio,152656,2016,"105,729 - 225,647",5
+39083,Knox County,Ohio,114756,2016,"105,729 - 225,647",5
+39089,Licking County,Ohio,137303,2016,"105,729 - 225,647",5
+39119,Muskingum County,Ohio,112788,2016,"105,729 - 225,647",5
+39155,Trumbull County,Ohio,217760,2016,"105,729 - 225,647",5
+39005,Ashland County,Ohio,224418.84,2018,"105,729 - 225,647",5
+39011,Auglaize County,Ohio,187936.05,2018,"105,729 - 225,647",5
+39015,Brown County,Ohio,126745.07,2018,"105,729 - 225,647",5
+39021,Champaign County,Ohio,182798.08,2018,"105,729 - 225,647",5
+39027,Clinton County,Ohio,184542.42,2018,"105,729 - 225,647",5
+39033,Crawford County,Ohio,180497.99,2018,"105,729 - 225,647",5
+39037,Darke County,Ohio,106051.51,2018,"105,729 - 225,647",5
+39039,Defiance County,Ohio,200990.61,2018,"105,729 - 225,647",5
+39059,Guernsey County,Ohio,126133.21,2018,"105,729 - 225,647",5
+39079,Jackson County,Ohio,146035.39,2018,"105,729 - 225,647",5
+39119,Muskingum County,Ohio,167490.87,2018,"105,729 - 225,647",5
+39123,Ottawa County,Ohio,125705.2,2018,"105,729 - 225,647",5
+39167,Washington County,Ohio,144564.42,2018,"105,729 - 225,647",5
+39003,Allen County,Ohio,209034.86,2017,"105,729 - 225,647",5
+39005,Ashland County,Ohio,195192.91,2017,"105,729 - 225,647",5
+39023,Clark County,Ohio,114887.21,2017,"105,729 - 225,647",5
+39025,Clermont County,Ohio,161907.34,2017,"105,729 - 225,647",5
+39029,Columbiana County,Ohio,135869.86,2017,"105,729 - 225,647",5
+39043,Erie County,Ohio,128446.3,2017,"105,729 - 225,647",5
+39045,Fairfield County,Ohio,143211.16,2017,"105,729 - 225,647",5
+39083,Knox County,Ohio,119665.49,2017,"105,729 - 225,647",5
+39119,Muskingum County,Ohio,125683.59,2017,"105,729 - 225,647",5
+39155,Trumbull County,Ohio,142807.33,2017,"105,729 - 225,647",5
+39165,Warren County,Ohio,196414.81,2017,"105,729 - 225,647",5
+39173,Wood County,Ohio,147762.57,2017,"105,729 - 225,647",5
+39017,Butler County,Ohio,556248,2016,"225,647 - 699,369",6
+39055,Geauga County,Ohio,261129,2016,"225,647 - 699,369",6
+39057,Greene County,Ohio,343060,2016,"225,647 - 699,369",6
+39063,Hancock County,Ohio,242054,2016,"225,647 - 699,369",6
+39093,Lorain County,Ohio,304647,2016,"225,647 - 699,369",6
+39095,Lucas County,Ohio,532766,2016,"225,647 - 699,369",6
+39099,Mahoning County,Ohio,335040,2016,"225,647 - 699,369",6
+39103,Medina County,Ohio,254382,2016,"225,647 - 699,369",6
+39113,Montgomery County,Ohio,534700,2016,"225,647 - 699,369",6
+39133,Portage County,Ohio,324026,2016,"225,647 - 699,369",6
+39151,Stark County,Ohio,391519,2016,"225,647 - 699,369",6
+39165,Warren County,Ohio,227485,2016,"225,647 - 699,369",6
+39173,Wood County,Ohio,248567,2016,"225,647 - 699,369",6
+39003,Allen County,Ohio,309639.29,2018,"225,647 - 699,369",6
+39009,Athens County,Ohio,324423.98,2018,"225,647 - 699,369",6
+39013,Belmont County,Ohio,293611.74,2018,"225,647 - 699,369",6
+39023,Clark County,Ohio,226056.08,2018,"225,647 - 699,369",6
+39025,Clermont County,Ohio,400207.9,2018,"225,647 - 699,369",6
+39029,Columbiana County,Ohio,381573.72,2018,"225,647 - 699,369",6
+39043,Erie County,Ohio,267273.65,2018,"225,647 - 699,369",6
+39045,Fairfield County,Ohio,410211,2018,"225,647 - 699,369",6
+39057,Greene County,Ohio,668239.02,2018,"225,647 - 699,369",6
+39083,Knox County,Ohio,315487.27,2018,"225,647 - 699,369",6
+39109,Miami County,Ohio,228690.44,2018,"225,647 - 699,369",6
+39155,Trumbull County,Ohio,392532.41,2018,"225,647 - 699,369",6
+39157,Tuscarawas County,Ohio,262915.41,2018,"225,647 - 699,369",6
+39165,Warren County,Ohio,445169.96,2018,"225,647 - 699,369",6
+39173,Wood County,Ohio,355729.29,2018,"225,647 - 699,369",6
+39017,Butler County,Ohio,568341.02,2017,"225,647 - 699,369",6
+39055,Geauga County,Ohio,298250.03,2017,"225,647 - 699,369",6
+39057,Greene County,Ohio,392214.76,2017,"225,647 - 699,369",6
+39063,Hancock County,Ohio,605743,2017,"225,647 - 699,369",6
+39089,Licking County,Ohio,254403.05,2017,"225,647 - 699,369",6
+39093,Lorain County,Ohio,452127.57,2017,"225,647 - 699,369",6
+39095,Lucas County,Ohio,446496.12,2017,"225,647 - 699,369",6
+39099,Mahoning County,Ohio,557303.61,2017,"225,647 - 699,369",6
+39103,Medina County,Ohio,486032.82,2017,"225,647 - 699,369",6
+39133,Portage County,Ohio,540690.58,2017,"225,647 - 699,369",6
+39151,Stark County,Ohio,523940.6,2017,"225,647 - 699,369",6
+39035,Cuyahoga County,Ohio,3787316,2016,"> 699,369",7
+39041,Delaware County,Ohio,1805811,2016,"> 699,369",7
+39049,Franklin County,Ohio,22339200,2016,"> 699,369",7
+39061,Hamilton County,Ohio,1670374,2016,"> 699,369",7
+39153,Summit County,Ohio,1148221,2016,"> 699,369",7
+39017,Butler County,Ohio,1245796.58,2018,"> 699,369",7
+39035,Cuyahoga County,Ohio,10926043.35,2018,"> 699,369",7
+39041,Delaware County,Ohio,4614755.96,2018,"> 699,369",7
+39049,Franklin County,Ohio,37922510.42,2018,"> 699,369",7
+39055,Geauga County,Ohio,733334.81,2018,"> 699,369",7
+39061,Hamilton County,Ohio,5678131.44,2018,"> 699,369",7
+39063,Hancock County,Ohio,702827.6,2018,"> 699,369",7
+39089,Licking County,Ohio,704636.67,2018,"> 699,369",7
+39093,Lorain County,Ohio,912239.2,2018,"> 699,369",7
+39095,Lucas County,Ohio,1115209.9,2018,"> 699,369",7
+39099,Mahoning County,Ohio,964361.68,2018,"> 699,369",7
+39103,Medina County,Ohio,724500.89,2018,"> 699,369",7
+39113,Montgomery County,Ohio,1267909.69,2018,"> 699,369",7
+39133,Portage County,Ohio,879932.95,2018,"> 699,369",7
+39151,Stark County,Ohio,1110593.27,2018,"> 699,369",7
+39153,Summit County,Ohio,2173667.14,2018,"> 699,369",7
+39035,Cuyahoga County,Ohio,4664745.75,2017,"> 699,369",7
+39041,Delaware County,Ohio,2239057.07,2017,"> 699,369",7
+39049,Franklin County,Ohio,14242971.98,2017,"> 699,369",7
+39061,Hamilton County,Ohio,2308466.35,2017,"> 699,369",7
+39113,Montgomery County,Ohio,753863.66,2017,"> 699,369",7
+39153,Summit County,Ohio,1019881.72,2017,"> 699,369",7
