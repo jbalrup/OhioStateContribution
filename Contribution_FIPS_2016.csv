@@ -1,89 +1,263 @@
-FIPS,STNAME,Contribution,Count_Contribution
-39001,Ohio,5668,32
-39003,Ohio,126914,427
-39005,Ohio,92961,428
-39007,Ohio,53554,338
-39009,Ohio,107200,563
-39011,Ohio,39151,172
-39013,Ohio,102991,618
-39015,Ohio,13882,126
-39017,Ohio,556248,1832
-39019,Ohio,23708,137
-39021,Ohio,111602,451
-39023,Ohio,132432,924
-39025,Ohio,159203,752
-39027,Ohio,112064,530
-39029,Ohio,123912,447
-39031,Ohio,35921,158
-39033,Ohio,34875,384
-39035,Ohio,3787316,6555
-39037,Ohio,33967,138
-39039,Ohio,126370,238
-39041,Ohio,1805811,3413
-39043,Ohio,131862,556
-39045,Ohio,152656,920
-39047,Ohio,30380,47
-39049,Ohio,22339200,12371
-39051,Ohio,18947,62
-39053,Ohio,54973,159
-39055,Ohio,261129,887
-39057,Ohio,343060,950
-39059,Ohio,78501,160
-39061,Ohio,1670374,3643
-39063,Ohio,242054,446
-39065,Ohio,9283,91
-39067,Ohio,5645,56
-39069,Ohio,750,11
-39071,Ohio,115,3
-39073,Ohio,2040,17
-39075,Ohio,22559,52
-39077,Ohio,3415,38
-39079,Ohio,36335,213
-39081,Ohio,105246,363
-39083,Ohio,114756,178
-39085,Ohio,10460,87
-39087,Ohio,27194,99
-39089,Ohio,137303,571
-39091,Ohio,13874,78
-39093,Ohio,304647,1414
-39095,Ohio,532766,1416
-39097,Ohio,2362,24
-39099,Ohio,335040,1494
-39101,Ohio,1575,26
-39103,Ohio,254382,713
-39105,Ohio,6693,76
-39107,Ohio,8035,30
-39109,Ohio,32455,141
-39111,Ohio,16195,78
-39113,Ohio,534700,1119
-39115,Ohio,44240,82
-39117,Ohio,18246,53
-39119,Ohio,112788,478
-39121,Ohio,425,4
-39123,Ohio,83257,402
-39125,Ohio,30298,37
-39127,Ohio,8350,122
-39129,Ohio,2400,10
-39131,Ohio,11527,67
-39133,Ohio,324026,929
-39135,Ohio,3757,32
-39137,Ohio,23082,54
-39139,Ohio,27947,118
-39141,Ohio,525,8
-39143,Ohio,5095,37
-39145,Ohio,53314,249
-39147,Ohio,56850,178
-39149,Ohio,2834,16
-39151,Ohio,391519,1158
-39153,Ohio,1148221,1558
-39155,Ohio,217760,710
-39157,Ohio,66846,219
-39161,Ohio,4125,24
-39163,Ohio,1950,6
-39165,Ohio,227485,424
-39167,Ohio,88477,460
-39169,Ohio,6095,31
-39171,Ohio,9150,16
-39173,Ohio,248567,927
-39175,Ohio,13880,19
-39159,Ohio,0,0
+fips,cnty_name,st_name,contribution,year
+39001,Adams County,Ohio,5668,2016
+39003,Allen County,Ohio,126914,2016
+39005,Ashland County,Ohio,92961,2016
+39007,Ashtabula County,Ohio,53554,2016
+39009,Athens County,Ohio,107200,2016
+39011,Auglaize County,Ohio,39151,2016
+39013,Belmont County,Ohio,102991,2016
+39015,Brown County,Ohio,13882,2016
+39017,Butler County,Ohio,556248,2016
+39019,Carroll County,Ohio,23708,2016
+39021,Champaign County,Ohio,111602,2016
+39023,Clark County,Ohio,132432,2016
+39025,Clermont County,Ohio,159203,2016
+39027,Clinton County,Ohio,112064,2016
+39029,Columbiana County,Ohio,123912,2016
+39031,Coshocton County,Ohio,35921,2016
+39033,Crawford County,Ohio,34875,2016
+39035,Cuyahoga County,Ohio,3787316,2016
+39037,Darke County,Ohio,33967,2016
+39039,Defiance County,Ohio,126370,2016
+39041,Delaware County,Ohio,1805811,2016
+39043,Erie County,Ohio,131862,2016
+39045,Fairfield County,Ohio,152656,2016
+39047,Fayette County,Ohio,30380,2016
+39049,Franklin County,Ohio,22339200,2016
+39051,Fulton County,Ohio,18947,2016
+39053,Gallia County,Ohio,54973,2016
+39055,Geauga County,Ohio,261129,2016
+39057,Greene County,Ohio,343060,2016
+39059,Guernsey County,Ohio,78501,2016
+39061,Hamilton County,Ohio,1670374,2016
+39063,Hancock County,Ohio,242054,2016
+39065,Hardin County,Ohio,9283,2016
+39067,Harrison County,Ohio,5645,2016
+39069,Henry County,Ohio,750,2016
+39071,Highland County,Ohio,115,2016
+39073,Hocking County,Ohio,2040,2016
+39075,Holmes County,Ohio,22559,2016
+39077,Huron County,Ohio,3415,2016
+39079,Jackson County,Ohio,36335,2016
+39081,Jefferson County,Ohio,105246,2016
+39083,Knox County,Ohio,114756,2016
+39085,Lake County,Ohio,10460,2016
+39087,Lawrence County,Ohio,27194,2016
+39089,Licking County,Ohio,137303,2016
+39091,Logan County,Ohio,13874,2016
+39093,Lorain County,Ohio,304647,2016
+39095,Lucas County,Ohio,532766,2016
+39097,Madison County,Ohio,2362,2016
+39099,Mahoning County,Ohio,335040,2016
+39101,Marion County,Ohio,1575,2016
+39103,Medina County,Ohio,254382,2016
+39105,Meigs County,Ohio,6693,2016
+39107,Mercer County,Ohio,8035,2016
+39109,Miami County,Ohio,32455,2016
+39111,Monroe County,Ohio,16195,2016
+39113,Montgomery County,Ohio,534700,2016
+39115,Morgan County,Ohio,44240,2016
+39117,Morrow County,Ohio,18246,2016
+39119,Muskingum County,Ohio,112788,2016
+39121,Noble County,Ohio,425,2016
+39123,Ottawa County,Ohio,83257,2016
+39125,Paulding County,Ohio,30298,2016
+39127,Perry County,Ohio,8350,2016
+39129,Pickaway County,Ohio,2400,2016
+39131,Pike County,Ohio,11527,2016
+39133,Portage County,Ohio,324026,2016
+39135,Preble County,Ohio,3757,2016
+39137,Putnam County,Ohio,23082,2016
+39139,Richland County,Ohio,27947,2016
+39141,Ross County,Ohio,525,2016
+39143,Sandusky County,Ohio,5095,2016
+39145,Scioto County,Ohio,53314,2016
+39147,Seneca County,Ohio,56850,2016
+39149,Shelby County,Ohio,2834,2016
+39151,Stark County,Ohio,391519,2016
+39153,Summit County,Ohio,1148221,2016
+39155,Trumbull County,Ohio,217760,2016
+39157,Tuscarawas County,Ohio,66846,2016
+39161,Van Wert County,Ohio,4125,2016
+39163,Vinton County,Ohio,1950,2016
+39165,Warren County,Ohio,227485,2016
+39167,Washington County,Ohio,88477,2016
+39169,Wayne County,Ohio,6095,2016
+39171,Williams County,Ohio,9150,2016
+39173,Wood County,Ohio,248567,2016
+39175,Wyandot County,Ohio,13880,2016
+39159,Union County,Ohio,0,2016
+39001,Adams County,Ohio,36830.55,2018
+39003,Allen County,Ohio,309639.29,2018
+39005,Ashland County,Ohio,224418.84,2018
+39007,Ashtabula County,Ohio,94570.6,2018
+39009,Athens County,Ohio,324423.98,2018
+39011,Auglaize County,Ohio,187936.05,2018
+39013,Belmont County,Ohio,293611.74,2018
+39015,Brown County,Ohio,126745.07,2018
+39017,Butler County,Ohio,1245796.58,2018
+39019,Carroll County,Ohio,81358.81,2018
+39021,Champaign County,Ohio,182798.08,2018
+39023,Clark County,Ohio,226056.08,2018
+39025,Clermont County,Ohio,400207.9,2018
+39027,Clinton County,Ohio,184542.42,2018
+39029,Columbiana County,Ohio,381573.72,2018
+39031,Coshocton County,Ohio,35246,2018
+39033,Crawford County,Ohio,180497.99,2018
+39035,Cuyahoga County,Ohio,10926043.35,2018
+39037,Darke County,Ohio,106051.51,2018
+39039,Defiance County,Ohio,200990.61,2018
+39041,Delaware County,Ohio,4614755.96,2018
+39043,Erie County,Ohio,267273.65,2018
+39045,Fairfield County,Ohio,410211,2018
+39047,Fayette County,Ohio,46055.18,2018
+39049,Franklin County,Ohio,37922510.42,2018
+39051,Fulton County,Ohio,45235.34,2018
+39053,Gallia County,Ohio,53915.54,2018
+39055,Geauga County,Ohio,733334.81,2018
+39057,Greene County,Ohio,668239.02,2018
+39059,Guernsey County,Ohio,126133.21,2018
+39061,Hamilton County,Ohio,5678131.44,2018
+39063,Hancock County,Ohio,702827.6,2018
+39065,Hardin County,Ohio,62465.75,2018
+39067,Harrison County,Ohio,58550.35,2018
+39069,Henry County,Ohio,5128,2018
+39071,Highland County,Ohio,1131.5,2018
+39073,Hocking County,Ohio,14602,2018
+39075,Holmes County,Ohio,13495,2018
+39077,Huron County,Ohio,12685.69,2018
+39079,Jackson County,Ohio,146035.39,2018
+39081,Jefferson County,Ohio,101647.45,2018
+39083,Knox County,Ohio,315487.27,2018
+39085,Lake County,Ohio,22161.19,2018
+39087,Lawrence County,Ohio,71350.17,2018
+39089,Licking County,Ohio,704636.67,2018
+39091,Logan County,Ohio,22867,2018
+39093,Lorain County,Ohio,912239.2,2018
+39095,Lucas County,Ohio,1115209.9,2018
+39097,Madison County,Ohio,3690,2018
+39099,Mahoning County,Ohio,964361.68,2018
+39101,Marion County,Ohio,8690,2018
+39103,Medina County,Ohio,724500.89,2018
+39105,Meigs County,Ohio,8143,2018
+39107,Mercer County,Ohio,11434.45,2018
+39109,Miami County,Ohio,228690.44,2018
+39111,Monroe County,Ohio,43341,2018
+39113,Montgomery County,Ohio,1267909.69,2018
+39115,Morgan County,Ohio,45354.38,2018
+39117,Morrow County,Ohio,23437.5,2018
+39119,Muskingum County,Ohio,167490.87,2018
+39121,Noble County,Ohio,325,2018
+39123,Ottawa County,Ohio,125705.2,2018
+39125,Paulding County,Ohio,48467.67,2018
+39127,Perry County,Ohio,6272.67,2018
+39129,Pickaway County,Ohio,6225.33,2018
+39131,Pike County,Ohio,46574.09,2018
+39133,Portage County,Ohio,879932.95,2018
+39135,Preble County,Ohio,18042.7,2018
+39137,Putnam County,Ohio,30183.68,2018
+39139,Richland County,Ohio,81793.86,2018
+39141,Ross County,Ohio,7991.28,2018
+39143,Sandusky County,Ohio,13427.78,2018
+39145,Scioto County,Ohio,94780.62,2018
+39147,Seneca County,Ohio,102967.86,2018
+39149,Shelby County,Ohio,15218.66,2018
+39151,Stark County,Ohio,1110593.27,2018
+39153,Summit County,Ohio,2173667.14,2018
+39155,Trumbull County,Ohio,392532.41,2018
+39157,Tuscarawas County,Ohio,262915.41,2018
+39161,Van Wert County,Ohio,20096.59,2018
+39163,Vinton County,Ohio,2700,2018
+39165,Warren County,Ohio,445169.96,2018
+39167,Washington County,Ohio,144564.42,2018
+39169,Wayne County,Ohio,50236.5,2018
+39171,Williams County,Ohio,7244.37,2018
+39173,Wood County,Ohio,355729.29,2018
+39175,Wyandot County,Ohio,49210.6,2018
+39001,Adams County,Ohio,12010,2017
+39003,Allen County,Ohio,209034.86,2017
+39005,Ashland County,Ohio,195192.91,2017
+39007,Ashtabula County,Ohio,102150.57,2017
+39009,Athens County,Ohio,61197.81,2017
+39011,Auglaize County,Ohio,51377.89,2017
+39013,Belmont County,Ohio,73664.63,2017
+39015,Brown County,Ohio,13449.48,2017
+39017,Butler County,Ohio,568341.02,2017
+39019,Carroll County,Ohio,27050.79,2017
+39021,Champaign County,Ohio,92508.55,2017
+39023,Clark County,Ohio,114887.21,2017
+39025,Clermont County,Ohio,161907.34,2017
+39027,Clinton County,Ohio,92443.34,2017
+39029,Columbiana County,Ohio,135869.86,2017
+39031,Coshocton County,Ohio,45715.18,2017
+39033,Crawford County,Ohio,78415.42,2017
+39035,Cuyahoga County,Ohio,4664745.75,2017
+39037,Darke County,Ohio,56191.5,2017
+39039,Defiance County,Ohio,92230.49,2017
+39041,Delaware County,Ohio,2239057.07,2017
+39043,Erie County,Ohio,128446.3,2017
+39045,Fairfield County,Ohio,143211.16,2017
+39047,Fayette County,Ohio,6825,2017
+39049,Franklin County,Ohio,14242971.98,2017
+39051,Fulton County,Ohio,16962,2017
+39053,Gallia County,Ohio,67287.7,2017
+39055,Geauga County,Ohio,298250.03,2017
+39057,Greene County,Ohio,392214.76,2017
+39059,Guernsey County,Ohio,43752,2017
+39061,Hamilton County,Ohio,2308466.35,2017
+39063,Hancock County,Ohio,605743,2017
+39065,Hardin County,Ohio,58338.06,2017
+39067,Harrison County,Ohio,33071.08,2017
+39069,Henry County,Ohio,590,2017
+39071,Highland County,Ohio,105,2017
+39073,Hocking County,Ohio,4854,2017
+39075,Holmes County,Ohio,4830,2017
+39077,Huron County,Ohio,15821.32,2017
+39079,Jackson County,Ohio,100863.04,2017
+39081,Jefferson County,Ohio,34144.55,2017
+39083,Knox County,Ohio,119665.49,2017
+39085,Lake County,Ohio,13204,2017
+39087,Lawrence County,Ohio,28289.14,2017
+39089,Licking County,Ohio,254403.05,2017
+39091,Logan County,Ohio,27792,2017
+39093,Lorain County,Ohio,452127.57,2017
+39095,Lucas County,Ohio,446496.12,2017
+39097,Madison County,Ohio,3415,2017
+39099,Mahoning County,Ohio,557303.61,2017
+39101,Marion County,Ohio,4785,2017
+39103,Medina County,Ohio,486032.82,2017
+39105,Meigs County,Ohio,8395,2017
+39107,Mercer County,Ohio,6500,2017
+39109,Miami County,Ohio,64333.93,2017
+39111,Monroe County,Ohio,16039,2017
+39113,Montgomery County,Ohio,753863.66,2017
+39115,Morgan County,Ohio,14629,2017
+39117,Morrow County,Ohio,19479,2017
+39119,Muskingum County,Ohio,125683.59,2017
+39121,Noble County,Ohio,250,2017
+39123,Ottawa County,Ohio,71740.06,2017
+39125,Paulding County,Ohio,23332.89,2017
+39127,Perry County,Ohio,3000,2017
+39129,Pickaway County,Ohio,735,2017
+39131,Pike County,Ohio,21094.16,2017
+39133,Portage County,Ohio,540690.58,2017
+39135,Preble County,Ohio,3436,2017
+39137,Putnam County,Ohio,27177,2017
+39139,Richland County,Ohio,27915,2017
+39141,Ross County,Ohio,5103.41,2017
+39143,Sandusky County,Ohio,3389.9,2017
+39145,Scioto County,Ohio,45975.91,2017
+39147,Seneca County,Ohio,59275.5,2017
+39149,Shelby County,Ohio,6709.21,2017
+39151,Stark County,Ohio,523940.6,2017
+39153,Summit County,Ohio,1019881.72,2017
+39155,Trumbull County,Ohio,142807.33,2017
+39157,Tuscarawas County,Ohio,30417,2017
+39161,Van Wert County,Ohio,8881.93,2017
+39163,Vinton County,Ohio,5845,2017
+39165,Warren County,Ohio,196414.81,2017
+39167,Washington County,Ohio,91500,2017
+39169,Wayne County,Ohio,23710,2017
+39171,Williams County,Ohio,13215,2017
+39173,Wood County,Ohio,147762.57,2017
+39175,Wyandot County,Ohio,7575,2017
